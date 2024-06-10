@@ -1,4 +1,4 @@
-You can view the Power BI report [Budget VS Actual]([your_power_bi_report_link](https://app.powerbi.com/view?r=eyJrIjoiYTU2NTA5MDItZjNiMy00NWI4LTg0MzMtMTZjM2I0NWNkOTUxIiwidCI6ImQzM2I1MjRlLTAyMDEtNDY5Ni1hNjIzLWE5NTEzMjIyNmM4ZiJ9)).
+[Power BI Budget vs Actual](https://app.powerbi.com/view?r=eyJrIjoiYTU2NTA5MDItZjNiMy00NWI4LTg0MzMtMTZjM2I0NWNkOTUxIiwidCI6ImQzM2I1MjRlLTAyMDEtNDY5Ni1hNjIzLWE5NTEzMjIyNmM4ZiJ9)
 
 # Financial Modeling Budget VS Actual
 
